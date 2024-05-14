@@ -1,0 +1,9 @@
+Package: com.chariz.transform
+Name: Transform
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Create and transform apps.
+Maintainer: NotHansCYDIa
+Author: NotHansCYDIa
+Section: Tweaks
+Depends: firmware(>=12.2) | org.swift.libswift (>=5.0)
